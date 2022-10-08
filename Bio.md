@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MuhammadMJabr
 - 👀 I’m interested in Programming and CyberSecurity.
 - 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - <My Email:muhammadmustafaja@gmail.com>
